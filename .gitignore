@@ -108,4 +108,12 @@ temp/
 *~
 
 # OS generated files
-Thumbs.db 
+Thumbs.db
+
+# Google Cloud Service Account credentials
+server/service-account.json
+*.json
+!package.json
+!package-lock.json
+!tailwind.config.js
+!postcss.config.js 
