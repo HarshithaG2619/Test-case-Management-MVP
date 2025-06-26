@@ -2,7 +2,7 @@
 
 Get the Test Case Management MVP running in 5 minutes!
 
-## 🚀 Quick Setup
+## Quick Setup
 
 ### 1. Install Dependencies
 ```bash
@@ -22,7 +22,7 @@ npm start
 
 The app will be available at `http://localhost:3000`
 
-## 🔧 Manual Setup (Alternative)
+## Manual Setup (Alternative)
 
 If you prefer to set up manually:
 
@@ -82,7 +82,7 @@ service firebase.storage {
 }
 ```
 
-## 🎯 First Steps
+## First Steps
 
 1. **Create a Project**: Click "Create New Project" and give it a name
 2. **Upload Documents**: Go to Documents tab and upload PDF, DOCX, or TXT files
@@ -91,14 +91,14 @@ service firebase.storage {
 5. **Modify with AI**: Use natural language to modify your test cases
 6. **Export**: Download your test cases as Excel
 
-## 🆘 Need Help?
+## Need Help?
 
 - Check the full [README.md](README.md) for detailed instructions
 - Review the troubleshooting section
 - Ensure all environment variables are set correctly
 - Verify Firebase services are enabled
 
-## 🔒 Security Notes
+## Security Notes
 
 - The app uses anonymous authentication by default
 - All data is stored in user-specific collections
