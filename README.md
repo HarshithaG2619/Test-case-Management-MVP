@@ -2,7 +2,7 @@
 
 A modern, AI-powered Test Case Management application built with React, Node.js, and Google Cloud Platform. This MVP provides a comprehensive solution for managing test cases, documents, and AI-generated test scenarios.
 
-## 🚀 Features
+## Features
 
 - **Project Management**: Create and manage multiple test projects
 - **Document Upload**: Support for PDF, Excel, CSV, and other document formats
@@ -11,7 +11,7 @@ A modern, AI-powered Test Case Management application built with React, Node.js,
 - **Modern UI**: Clean, responsive interface built with React and Tailwind CSS
 - **Real-time Updates**: Instant updates across the application
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - **React 18** - Modern React with hooks
@@ -27,7 +27,7 @@ A modern, AI-powered Test Case Management application built with React, Node.js,
 ### AI Integration
 - **Google Gemini API** - AI-powered test case generation
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before running this application, you'll need:
 
@@ -38,7 +38,7 @@ Before running this application, you'll need:
    - Service Account with appropriate permissions
 3. **Google Gemini API Key** (for AI features)
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the Repository
 
@@ -135,7 +135,7 @@ The application will be available at:
 - **Frontend**: http://localhost:3000
 - **Backend**: http://localhost:4000
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Creating a Project
 
@@ -187,7 +187,7 @@ The application will be available at:
 - `POST /upload` - Upload files to Google Cloud Storage
 - `POST /generate-download-url` - Generate signed download URLs
 
-## 🚀 Deployment
+## Deployment
 
 ### Frontend Deployment (Vercel/Netlify)
 
@@ -212,14 +212,14 @@ The application will be available at:
 
 3. Upload your `service-account.json` file to the deployment environment
 
-## 🔒 Security Considerations
+## Security Considerations
 
 - Service account credentials are kept secure and not committed to version control
 - Environment variables are used for sensitive configuration
 - CORS is properly configured for production domains
 - File uploads are validated and stored securely
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -227,11 +227,11 @@ The application will be available at:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
-## 🆘 Support
+## Support
 
 If you encounter any issues:
 
@@ -240,15 +240,14 @@ If you encounter any issues:
 3. Ensure all environment variables are set correctly
 4. Check the backend logs for server-side errors
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - User authentication and authorization
 - Test execution tracking
-- Integration with CI/CD pipelines
 - Advanced reporting and analytics
 - Team collaboration features
 - Mobile application
 
 ---
 
-**Built with ❤️ using React, Node.js, and Google Cloud Platform** 
+**Built with using React, Node.js, and Google Cloud Platform** 
